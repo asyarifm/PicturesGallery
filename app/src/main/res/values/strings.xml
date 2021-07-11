@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicturesGallery</string>
+    <string name="error_connection">Please check you connection</string>
+</resources>
